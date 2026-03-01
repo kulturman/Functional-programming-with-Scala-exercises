@@ -1,4 +1,4 @@
-//Write a recursive function to get the nth Fibonacci numbe
+//Write a recursive function to get the nth Fibonacci number
 
 def fib(n: Int): Int = {
   @tailrec
